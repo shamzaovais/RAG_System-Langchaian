@@ -1,2 +1,2 @@
-# RAG_System-Langchaian
+# RAG_System-Langchain
 A brief blog on RAG - langchain system design
